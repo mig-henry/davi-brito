@@ -1,0 +1,38 @@
+.body/*corpo do site*/
+{
+  background-color: #fef1e0 ;
+  
+}
+
+.h1 h1/*texto principal*/
+{
+  color: #451a3e;
+  text-align: center;
+  font-size: 50px;
+}
+
+.img/*div das imagens*/
+{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.img img/*imagens*/
+{
+  width: 350px;
+  height: 250px;
+  border: 7px solid #451a3e;
+  border-radius: 15px;
+  flex: 0 0 auto;
+}
+
+.p /*texto do rodape*/
+{
+  color: #451a3e;
+  text-align: center;
+  font-size: 25px;
+}
+/*System of a Down*/
